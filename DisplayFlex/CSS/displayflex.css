@@ -1,0 +1,27 @@
+.flex > div{
+    background-color: dimgrey;
+    border: 5px solid black;
+    height: 50px;
+    margin: 10px;
+    padding: 10px;
+    width: 50%;
+}
+
+.flex{
+    display: flex;
+}
+
+
+.flex2 > div{
+    background-color: dimgrey;
+    border: 5px solid black;
+    height: 50px;
+    margin: 10px;
+    padding: 20px;
+    width: 100%;
+}
+
+
+.flex2{
+    display: flex;
+}

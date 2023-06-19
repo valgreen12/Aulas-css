@@ -1,0 +1,64 @@
+body{
+    background-color: #FFF1D6;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+}
+
+main{
+    max-width: 960px;
+    margin: auto;
+}
+
+h1:hover{
+    background-color: #7e9F19;
+    color: #FFF;    
+}
+
+article{
+    float: left;
+    width: 600px;
+}
+
+section{
+    background-color: #fff;
+    border: 1px solid #CCC;
+    margin-bottom: 20px;
+    padding: 10px;
+    text-align: justify;
+}
+
+section h2{
+    border-bottom: 1px dashed #7E9F19;
+    margin: 0;
+}
+
+
+section img{
+    border: 1px solid #7e9F19;
+    float: left;
+    margin: 10px 10px 0px 0px;
+    padding: 2px;
+    width: 150px;
+}
+
+.clear{
+    clear: both;
+}
+
+aside{
+    background-color: #FFFBE4;
+    border: 1px solid #C9BC8F;
+    float: right;
+    padding: 10px;
+    width: 260PX;
+}
+
+aside h3{
+    font-size: 14px;
+    margin-top: 0;
+}
+
+aside ol{
+    font-size: 12px;
+}
+

@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.caixa1{
+    display: flex;
+    flex-direction: row;
+    margin-right: 200px;
+}
+
+.caixa1 > div{
+    height: 100px;
+    width: 500px;
+
+}
+
+
+.cor1{
+    background-color: aqua;
+}
+.cor2{
+    background-color: burlywood;
+}
+.cor3{
+    background-color:blue;
+}
+
+
+
+.caixa2{
+    display: flex;
+    flex-direction: row-reverse;
+    margin-left: 200px;
+}
+
+.caixa2{
+    margin-top: 20px;
+}
+
+.caixa2 > div{
+    width: 500px;
+    height: 100px;
+}
+
+.cor4{
+    background-color: blue;
+}
+
+.cor5{
+    background-color: cadetblue;
+}
+
+.cor6{
+    background-color: chartreuse;
+}
+
+
+.caixa3{
+    justify-content: space-between;
+    display: flex;
+    margin-top: 20px;
+}
+
+
+.caixa3 > div{
+    width: 400px;
+    height: 90px;
+}
+
+.cor7{
+    background-color: blue;
+}
+
+.cor8{
+    background-color: cadetblue;
+}
+
+.cor9{
+    background-color: chartreuse;
+}
+
+
+.caixa4{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.caixa4 > div{
+    width: 400px;
+    height: 90px;
+}
+
+
+.cor10{
+    background-color:darkorange ;
+}
+.cor11{
+    background-color:darkolivegreen ;
+}
+.cor12{
+    background-color:darkkhaki ;
+}

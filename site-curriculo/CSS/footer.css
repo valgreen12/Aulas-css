@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.footer {
+    background-color: #eab56f;
+    height: 200px;
+    color: #254245;
+}
+
+.contatos{
+    text-align: center;
+    padding-top: 30px;
+}
+
+.footer > .imagens{
+    display: flex;
+    justify-content: center;
+}
+
+
+.imagens{
+    padding-top: 30px;
+}
+

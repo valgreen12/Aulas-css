@@ -1,0 +1,92 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+article{
+    flex: 70%;
+}
+
+article{
+    
+    margin: 0px 5px;
+}
+
+.trabalhos{
+    background-color: #254245;
+    color: #eab56f;
+}
+.titulosTrabalhos{
+    padding: 10px;
+}
+
+.titulosTrabalhos > h1{
+    font-size: 40px;
+    margin-left: 5px;
+}
+
+.trabalhos > .titulosTrabalhos{
+    display: flex;
+}
+
+.trabalho1Titulo{
+    margin: 20px 0px 10px 10px;
+    font-size: 30px;
+}
+
+.conteudoTrabalho1{
+    margin: 5px 0px 0px 10px;
+    font-size: 10px;
+}
+
+.conteudoTrabalho1{
+    display: flex;
+}
+
+.conteudoQuimico{
+    margin: 5px 20px 5px 10px;
+}
+
+hr{
+    background-color: #eab56f;
+    margin: 0px 10px 0px 10px;
+}
+
+
+
+
+.Estudo{
+    background-color: #254245;
+    color: #eab56f;
+}
+
+.tituloEstudo{
+    display: flex;
+    margin: 10px 0px 10px
+    10px;
+    padding: 10px;
+    
+}
+
+.tituloEstudo > h1 {
+    font-size: 50px;
+    margin-left: 5px;
+}
+
+.tempoEstudo{
+    display: flex;
+}
+
+.estudo1titulo{
+    padding-top: 10PX;
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+
+.tempoEstudo{
+    margin-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+
+}
+

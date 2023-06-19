@@ -1,0 +1,23 @@
+
+.flex > div{
+    background-color: white;
+    font-size: 40px;
+    height: 50px;
+    width: 100px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+.flex{
+    justify-content: center;
+    align-items: center;
+    display: flex;    
+    background-color: blue;
+    height: 200px;
+    width: 900px;
+}
+
+
+
+

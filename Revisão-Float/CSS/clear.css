@@ -1,0 +1,30 @@
+div{
+    border:  3px solid #4CAF50;
+    padding: 50px;
+    width: 100px;
+    background-color: #4CAF50;
+}
+
+section{
+    border: 1px solid blue;
+}
+
+
+.img{
+    float: left;
+}
+
+.titulo{
+    clear:right;
+}
+
+.img2{
+    float: left;
+}
+.clearfix{
+    overflow: auto;
+}
+
+section{
+    overflow: auto;
+}

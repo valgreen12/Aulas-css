@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+main{
+    margin: auto;
+    width: 900px;
+
+
+}
+.box{
+  margin: auto;
+  width: 900px;
+  height: 450px;
+  background-color: aqua;
+  display: flex;
+}
+.box > .um{
+    width: 450px;
+    height:450px;
+    background-color: red;
+}
+.box > .conteudo{
+    background-color: black;
+    width: 450px;
+    height: 450px;
+    
+}
+
+
+.box >.conteudo > .cabecalho{
+    background-color: chartreuse;
+    width: 450px;
+    height: 220px;
+}
+
+.box > .conteudo > .conteudo2 >.imagem{
+    
+    background-color: aqua;
+    width: 200px;
+    height: 230px;
+    
+}
+
+.conteudo2{
+    display: flex;
+}
+
+
+
+.texto1{
+    background-color: rgb(255, 0, 0);
+    width: 190px;
+    height: 110px;
+    margin-top: 5px;
+    margin-left: 50px;
+}
+.texto2{
+    background-color: cadetblue;
+    width: 190px;
+    height: 110px;
+    margin-top: 5px;
+    margin-left: 50px;
+}
+
+.box{
+    flex-direction: row;
+}
+
+/* .dois{
+    width: 600px;
+    height: 200px;
+    background-color: blue;
+    margin-left: 20px;
+}
+
+.div2{
+    flex-direction: column;
+}
+
+.tres{
+    width: 200px;
+    height: 180px;
+    background-color: yellow;
+    margin-top: 20PX;
+    margin-left:20PX;
+    
+}
+
+.div3 {
+    flex-direction: column;
+}
+
+.quatro{
+    height: 90px;
+    width: 100px;
+    background-color: brown;
+}
+.cinco{
+    height: 90px;
+    width: 100px;
+    background-color: aqua;
+    margin-top: 5px;
+}
+
+
+
+
+ */

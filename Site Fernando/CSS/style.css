@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    text-align: center;
+    color: white;
+    background-image: url(../img/sal-rosa-do-himalaia-grosso-com-moedor-110-g-rosado-muito-mais-sac3bade-original-natural-puro.jpg);
+    height: 500px;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}

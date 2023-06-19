@@ -1,0 +1,25 @@
+main{
+    margin: 20px;
+}
+section{
+    border: 1px solid grey;
+    width:300px;
+    padding: 10px 10px;
+    float: left;
+    margin:20px;
+    
+}
+
+article{
+    margin: 50px;
+}
+
+
+img{
+    max-width: 300px;
+    height: 200px;
+}
+
+.clear{
+    clear: both;
+}
